@@ -1,4 +1,4 @@
-**READ FIRST:** brief description of data files scripts in this repository; 3 & 4 are the actual scipts, while the rest are data used in those scripts.
+**READ FIRST:** brief description of data files and scripts in this repository; 3 & 4 are the actual scipts, while the rest are data used in those scripts.
 
 **1. SatAWS_tair_2023.xlsx** – data used in “4. b_sat_aws_tair.py” 
 
